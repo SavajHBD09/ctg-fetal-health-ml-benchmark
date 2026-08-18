@@ -43,10 +43,10 @@
 
 <div align="center">
 
-| #   | Name                 | Enrollment No. | Role                        |
-| --- | -------------------- | -------------- | --------------------------- |
-| 🧠  | **Harshit Dave**     | `92410103124`  | ML Engineer & Researcher    |
-| 🎓  | **Prof. Dhara Joshi** | —              | Internal Guide              |
+| #   | Name                 |   Role                        |
+| --- | -------------------- |  --------------------------- |
+| 🧠  | **Harshit Dave**     | ML Engineer & Researcher    |
+| 🎓  | **Prof. Dhara Joshi** |  Internal Guide              |
 
 _Department of Computer Engineering · Faculty of Engineering & Technology · Marwadi University, Rajkot_
 
